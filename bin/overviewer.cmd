@@ -25,4 +25,4 @@ echo.
 echo Input:        %PATH_OVERVIEWER_WORLD%
 echo Ouput:        %PATH_OVERVIEWER_OUTPUT%
 
-%PATH_OVERVIEWER_EXEC% --config=%PATH_OVERVIEWER_ROOT%\render.conf
+%PATH_OVERVIEWER_EXEC% --config=%PATH_OVERVIEWER_ROOT%\render.conf --genpoi
