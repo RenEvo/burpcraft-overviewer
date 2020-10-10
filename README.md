@@ -14,5 +14,6 @@ This repository contains all the tools/utilities for rendering the burpcraft map
 
 These instructions are for Ubuntu only, don't really care about debian as the out of the box install works.
 
-1. `./bin/linux/install`
+1. `sudo apt install build-essential python3-pil python3-dev python3-numpy`
+2. `./bin/linux/install`
 
