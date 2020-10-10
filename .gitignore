@@ -1,0 +1,6 @@
+bin/windows/overviewer-*
+
+worlds/*
+!worlds/README.md
+dist/*
+!dist/README.md
