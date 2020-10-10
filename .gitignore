@@ -1,4 +1,5 @@
 bin/windows/overviewer-*
+bin/linux/overviewer
 
 worlds/*
 !worlds/README.md
